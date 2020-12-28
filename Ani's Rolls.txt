@@ -1,0 +1,741 @@
+title:Ani's Rolls
+
+// Arctic Haze - Add Clear (pve)
+dimwishlist:item=20935540&perks=1168162263,2848615171
+dimwishlist:item=20935540&perks=1168162263,3108830275
+dimwishlist:item=20935540&perks=3513791699,2848615171
+dimwishlist:item=20935540&perks=3513791699,3108830275
+
+
+// Temptation's Hook - Add Clear (pve)
+dimwishlist:item=35794111&perks=2590710093,3708227201
+
+
+// Temptation's Hook - Boss DPS (pve)
+dimwishlist:item=35794111&perks=1749209109,1546637391
+dimwishlist:item=35794111&perks=1749209109,3913600130
+
+
+// Subzero Salvo - Add Clear (pve)
+dimwishlist:item=42351395&perks=2010801679,2726471870
+dimwishlist:item=42351395&perks=2010801679,3108830275
+dimwishlist:item=42351395&perks=2010801679,2396489472
+dimwishlist:item=42351395&perks=2010801679,3523296417
+
+
+// Subzero Salvo - Boss DPS (pve)
+dimwishlist:item=42351395&perks=3796465595,1275731761
+
+
+// Subzero Salvo - Crucible (pvp)
+dimwishlist:item=42351395&perks=1478423395,1996142143,2726471870
+dimwishlist:item=42351395&perks=1478423395,1996142143,3523296417
+
+
+// Ancient Gospel - Add Clear (pve)
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,1015611457
+
+
+// The Fool's Remedy - Add Clear (pve)
+dimwishlist:item=65611680&perks=2779035018,1015611457
+
+
+// The Fool's Remedy - Crucible (pvp)
+dimwishlist:item=65611680&perks=588594999,699525795
+
+
+// Avalanche - Add Clear (pve)
+dimwishlist:item=66875353&perks=2779035018,3425386926
+
+
+// Shining Sphere - Boss DPS (pve)
+dimwishlist:item=136525518&perks=3796465595,3300816228
+
+
+// Shining Sphere - Add Clear (pve)
+dimwishlist:item=136525518&perks=3300816228,3523296417
+
+
+// Shining Sphere - Crucible (pvp)
+dimwishlist:item=136525518&perks=1478423395,1996142143
+
+
+// Last Perdition - Add Clear (pve)
+dimwishlist:item=188882152&perks=1168162263,3425386926
+
+
+// Whispering Slab - Add Clear (pve)
+dimwishlist:item=211938782&perks=201365942,3108830275
+
+
+// Main Ingredient - Add Clear (pve)
+dimwishlist:item=253196586&perks=3300816228,3425386926
+
+
+// Main Ingredient - Boss DPS (pve)
+dimwishlist:item=253196586&perks=3300816228,2213355989
+
+
+// Main Ingredient - Crucible (pvp)
+dimwishlist:item=253196586&perks=1645158859,1890422124
+
+
+// Exile's Curse (Adept) - Crucible (pvp)
+dimwishlist:item=276080079&perks=2866798147,1683379515
+
+
+// Berenger's Memory - Add Clear (pve)
+dimwishlist:item=407621213&perks=2284787283,3523296417
+
+
+// Berenger's Memory - Boss DPS (pve)
+dimwishlist:item=407621213&perks=3301904089,3300816228
+
+
+// Berenger's Memory - Crucible (pvp)
+dimwishlist:item=407621213&perks=1478423395,1380253176,1683379515
+
+
+// Astral Horizon (Adept) - Add Clear (pve)
+dimwishlist:item=532746994&perks=3300816228,2679249093
+
+
+// Astral Horizon (Adept) - Crucible (pvp)
+dimwishlist:item=532746994&perks=1047830412,3161816588,47981717
+
+
+// Chattering Bone - Add Clear (pve)
+dimwishlist:item=568515759&perks=1168162263,3425386926
+
+
+// Chattering Bone - Crucible (pvp)
+dimwishlist:item=568515759&perks=47981717,1645158859
+
+
+// Age-Old Bond - Add Clear (pve)
+dimwishlist:item=601592879&perks=3400784728,2848615171
+dimwishlist:item=601592879&perks=3400784728,3425386926
+dimwishlist:item=601592879&perks=1354429876,2848615171
+dimwishlist:item=601592879&perks=1354429876,3425386926
+
+
+// Hollow Words - Add Clear (pve)
+dimwishlist:item=607191995&perks=2039302152,3108830275
+
+
+// Hollow Words - Crucible (pvp)
+dimwishlist:item=607191995&perks=1645158859,1683379515
+
+
+// Falling Guillotine - Add Clear (pve)
+dimwishlist:item=614426548&perks=2590710093,3708227201
+
+
+// Falling Guillotine - Boss DPS (pve)
+dimwishlist:item=614426548&perks=1749209109,3913600130
+
+
+// Nation of Beasts - Add Clear (pve)
+dimwishlist:item=654370424&perks=2010801679,3425386926
+
+
+// Nation of Beasts - Add Clear (pve)
+dimwishlist:item=654370424&perks=1168162263,1015611457
+
+
+// Exile's Curse - Crucible (pvp)
+dimwishlist:item=679281855&perks=2866798147,1683379515
+
+
+// The Supremacy - Add Clear (pve)
+dimwishlist:item=686951703&perks=2010801679,3425386926
+
+
+// Arsenic Bite-4b - Add Clear (pve)
+dimwishlist:item=720351795&perks=2848615171,3365897133
+dimwishlist:item=720351795&perks=3425386926,3365897133
+
+
+// Arsenic Bite-4b - Crucible (pvp)
+dimwishlist:item=720351795&perks=588594999,201365942
+
+
+// Seventh Seraph VY-7 - Add Clear (pve)
+dimwishlist:item=766323545&perks=2010801679,2848615171
+
+
+// Tomorrow's Answer - Add Clear (pve)
+dimwishlist:item=958384347&perks=3096702027,2284787283
+
+
+// Tomorrow's Answer - Boss DPS (pve)
+dimwishlist:item=958384347&perks=3796465595,2869569095,1275731761
+
+
+// Tomorrow's Answer - Crucible (pvp)
+dimwishlist:item=958384347&perks=1996142143,1683379515
+
+
+// Deafening Whisper - Add Clear (pve)
+dimwishlist:item=981718087&perks=2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,3108830275
+
+
+// Bad Omens - Boss DPS (pve)
+dimwishlist:item=991314988&perks=3300816228,1275731761
+
+
+// Bad Omens - Boss DPS (pve)
+dimwishlist:item=991314988&perks=3796465595,1275731761
+
+
+// Bad Omens - Add Clear (pve)
+dimwishlist:item=991314988&perks=3300816228,3096702027
+
+
+// Bad Omens - Crucible (pvp)
+dimwishlist:item=991314988&perks=1478423395,1996142143
+
+
+// Jian 7 Rifle - Add Clear (pve)
+dimwishlist:item=1162247618&perks=1431678320,3425386926
+dimwishlist:item=1162247618&perks=1431678320,2848615171
+
+
+// High Albedo - Add Clear (pve)
+dimwishlist:item=1197486957&perks=2010801679,3108830275
+
+
+// Cold Denial - Add Clear (pve)
+dimwishlist:item=1216130969&perks=2779035018,3108830275
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+
+
+// IKELOS_SR_v1.0.2 - Crucible (pvp)
+dimwishlist:item=1253087083&perks=588594999,1683379515
+
+
+// Tomorrow's Answer (Adept) - Add Clear (pve)
+dimwishlist:item=1366917989&perks=3096702027,2284787283
+
+
+// Tomorrow's Answer (Adept) - Boss DPS (pve)
+dimwishlist:item=1366917989&perks=3796465595,2869569095,1275731761
+
+
+// Tomorrow's Answer (Adept) - Crucible (pvp)
+dimwishlist:item=1366917989&perks=1996142143,1683379515
+
+
+// Trustee - Crucible (pvp)
+dimwishlist:item=1392919471&perks=1645158859,47981717
+dimwishlist:item=1392919471&perks=1645158859,699525795
+
+
+// Trustee - Add Clear (pve)
+dimwishlist:item=1392919471&perks=1168162263,3201496230
+
+
+// Cold Front - Add Clear (pve)
+dimwishlist:item=1506719573&perks=2779035018,1015611457
+
+
+// Friction Fire - Add Clear (pve)
+dimwishlist:item=1513993763&perks=1820235745,3425386926
+
+
+// Friction Fire - Add Clear (pve)
+dimwishlist:item=1513993763&perks=4134353779,3108830275
+dimwishlist:item=1513993763&perks=4134353779,3425386926
+dimwishlist:item=1513993763&perks=1431678320,3108830275
+dimwishlist:item=1513993763&perks=1431678320,3425386926
+
+
+// Seventh Seraph Carbine - Add Clear (pve)
+dimwishlist:item=1561006927&perks=1354429876,3425386926
+
+
+// Biting Winds - Crucible (pvp)
+dimwishlist:item=1621657423&perks=588594999,3350417888
+
+
+// The Guiding Sight - Add Clear (pve)
+dimwishlist:item=1641430382&perks=2010801679,4049631843
+
+
+// The Forward Path - Add Clear (pve)
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+
+
+// The Forward Path - Crucible (pvp)
+dimwishlist:item=1690783811&perks=1359896290,699525795
+
+
+// Astral Horizon - Add Clear (pve)
+dimwishlist:item=1697682876&perks=3300816228,2679249093
+
+
+// Astral Horizon - Crucible (pvp)
+dimwishlist:item=1697682876&perks=1047830412,3161816588,47981717
+
+
+// Enigma's Draw - Add Clear (pve)
+dimwishlist:item=1723380073&perks=1631667848,4082225868
+
+
+// Thermal Erosion - Add Clear (pve)
+dimwishlist:item=1766088024&perks=2869569095,3592538738
+dimwishlist:item=1766088024&perks=2869569095,2848615171
+dimwishlist:item=1766088024&perks=2869569095,3523296417
+
+
+// Escape Velocity - Add Clear (pve)
+dimwishlist:item=1786797708&perks=1631667848,3708227201
+
+
+// Escape Velocity - Add Clear (pve)
+dimwishlist:item=1786797708&perks=1431678320,3643424744,3708227201
+dimwishlist:item=1786797708&perks=4134353779,3643424744,3708227201
+
+
+// Seventh Seraph CQC-12 - Boss DPS (pve)
+dimwishlist:item=1821724780&perks=3300816228,2360754333
+dimwishlist:item=1821724780&perks=3300816228,1546637391
+
+
+// Seventh Seraph CQC-12 - Crucible (pvp)
+dimwishlist:item=1821724780&perks=1047830412,3161816588,957782887
+
+
+// Nature of the Beast - Add Clear (pve)
+dimwishlist:item=1835747805&perks=1820235745,2848615171
+
+
+// The Summoner - Add-Clear (pve)
+dimwishlist:item=1907698332&perks=3643424744,2848615171
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+
+
+// The Summoner - Crucible (pvp)
+dimwishlist:item=1907698332&perks=588594999,1264398905
+
+
+// Truthteller - Add Clear (pve)
+dimwishlist:item=1946491241&perks=3300816228,3523296417
+
+
+// Truthteller - Boss DPS (pve)
+dimwishlist:item=1946491241&perks=3301904089,3300816228
+
+
+// Truthteller - Crucible (pvp)
+dimwishlist:item=1946491241&perks=3300816228,1683379515
+
+
+// Swarm of the Raven - Add Clear (pve)
+dimwishlist:item=1972985595&perks=3300816228,3096702027
+
+
+// Swarm of the Raven - Boss DPS (pve)
+dimwishlist:item=1972985595&perks=3301904089,3300816228
+
+
+// Swarm of the Raven - Crucible (pvp)
+dimwishlist:item=1972985595&perks=1478423395,1380253176
+
+
+// Talons of the Eagle - Add Clear (pve)
+dimwishlist:item=1982711279&perks=1168162263,3425386926
+
+
+// The Last Dance - Add Clear (pve)
+dimwishlist:item=2009277538&perks=4071163871,1015611457
+
+
+// The Last Dance - Crucible (pvp)
+dimwishlist:item=2009277538&perks=588594999,1890422124
+dimwishlist:item=2009277538&perks=1645158859,1890422124
+
+
+// Stars in Shadow - Add Clear (pve)
+dimwishlist:item=2050789284&perks=1168162263,1015611457
+dimwishlist:item=2050789284&perks=1168162263,2848615171
+
+
+// Orewing's Maul - Boss DPS (pve)
+dimwishlist:item=2108920981&perks=3301904089,3300816228
+
+
+// Lonesome - Add Clear (pve)
+dimwishlist:item=2199171672&perks=1631667848,4082225868
+
+
+// Zealot's Reward - Boss DPS (pve)
+dimwishlist:item=2209003210&perks=3300816228,2213355989
+
+
+// Zealot's Reward - Crucible (pvp)
+dimwishlist:item=2209003210&perks=1645158859,1683379515
+
+
+// The Steady Hand - Crucible (pvp)
+dimwishlist:item=2220884262&perks=588594999,3513791699
+
+
+// IKELOS_SMG_v1.0.2 - Add Clear (pve)
+dimwishlist:item=2222560548&perks=1631667848,3708227201
+
+
+// IKELOS_SMG_v1.0.2 - Crucible (pvp)
+dimwishlist:item=2222560548&perks=1359896290,1890422124
+
+
+// Interference VI - Add Clear (pve)
+dimwishlist:item=2257180473&perks=2284787283,3523296417
+
+
+// Interference VI - Boss DPS (pve)
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110
+
+
+// Interference VI - Crucible (pvp)
+dimwishlist:item=2257180473&perks=1478423395,1380253176,2888557110
+
+
+// Sacred Provenance - Add Clear (pve)
+dimwishlist:item=2408405461&perks=1168162263,1015611457
+
+
+// Blast Battue - Add Clear (pve)
+dimwishlist:item=2453357042&perks=2284787283,2396489472
+dimwishlist:item=2453357042&perks=2284787283,3592538738
+
+
+// Blast Battue - Boss DPS (pve)
+dimwishlist:item=2453357042&perks=3301904089,3300816228
+
+
+// Blast Battue - Crucible (pvp)
+dimwishlist:item=2453357042&perks=1478423395,1380253176,1683379515
+dimwishlist:item=2453357042&perks=1478423395,1380253176,3592538738
+
+
+// Apex Predator - Crucible (pvp)
+dimwishlist:item=2545083870&perks=1478423395,1996142143
+
+
+// Apex Predator - Boss DPS (pve)
+dimwishlist:item=2545083870&perks=3796465595,3300816228
+
+
+// Seventh Seraph SAW - Add Clear (pve)
+dimwishlist:item=2582755344&perks=2284787283,3513791699
+
+
+// Seventh Seraph SAW - Boss DPS (pve)
+dimwishlist:item=2582755344&perks=3300816228,1771339417
+dimwishlist:item=2582755344&perks=3300816228,1546637391
+
+
+// Corsair's Wrath - Add Clear (pve)
+dimwishlist:item=2714022207&perks=1168162263,2726471870
+dimwishlist:item=2714022207&perks=1168162263,3523296417
+dimwishlist:item=2714022207&perks=1168162263,3108830275
+
+
+// Corsair's Wrath - Crucible (pvp)
+dimwishlist:item=2714022207&perks=588594999,2213355989
+dimwishlist:item=2714022207&perks=2866798147,2213355989
+
+
+// Tyranny of Heaven - Add Clear (pve)
+dimwishlist:item=2721249463&perks=201365942,3425386926
+dimwishlist:item=2721249463&perks=201365942,3365897133
+
+
+// Dire Promise - Crucible (pvp)
+dimwishlist:item=2742838701&perks=47981717,1645158859
+
+
+// Royal Chase - Add Clear (pve)
+dimwishlist:item=2776503072&perks=1431678320,2848615171
+
+
+// Distant Tumulus - Add Clear (pve)
+dimwishlist:item=2807687156&perks=2284787283,1168162263
+
+
+// Distant Tumulus - Boss DPS (pve)
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+
+
+// Honor's Edge - Add Clear (pve)
+dimwishlist:item=2857348871&perks=2590710093,3708227201
+
+
+// Hailing Confusion - Add Clear (pve)
+dimwishlist:item=2870169846&perks=1168162263,3108830275
+
+
+// Xenoclast IV - Add Clear (pve)
+dimwishlist:item=2891672170&perks=3300816228,2726471870
+dimwishlist:item=2891672170&perks=3300816228,3523296417
+dimwishlist:item=2891672170&perks=3300816228,3108830275
+
+
+// Xenoclast IV - Add Clear (pve)
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+
+
+// Xenoclast IV - Boss DPS (pve)
+dimwishlist:item=2891672170&perks=3300816228,2360754333
+dimwishlist:item=2891672170&perks=3300816228,1546637391
+
+
+// Xenoclast IV - Crucible (pvp)
+dimwishlist:item=2891672170&perks=1047830412,3161816588,1683379515
+
+
+// Toil and Trouble - Crucible (pvp)
+dimwishlist:item=2957367743&perks=1047830412,3161816588,957782887
+
+
+// Succession - Add Clear (pve)
+dimwishlist:item=2990047042&perks=1523832109,2726471870
+
+
+// Succession - Boss DPS (pve)
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+
+
+// Succession - Crucible (pvp)
+dimwishlist:item=2990047042&perks=588594999,957782887
+
+
+// Seventh Seraph Officer Revolver - Add Clear (pve)
+dimwishlist:item=3037520408&perks=2010801679,1954620775
+
+
+// Timelines' Vertex - Crucible (pvp)
+dimwishlist:item=3055192515&perks=3300816228,1683379515
+
+
+// Timelines' Vertex - Add Clear (pve)
+dimwishlist:item=3055192515&perks=3300816228,3523296417
+
+
+// False Promises - Add Clear (pve)
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+dimwishlist:item=3143732432&perks=1820235745,3425386926
+dimwishlist:item=3143732432&perks=2779035018,3425386926
+
+
+// False Promises - Add Clear (pve)
+dimwishlist:item=3143732432&perks=3643424744,3108830275
+
+
+// False Promises - Crucible (pvp)
+dimwishlist:item=3143732432&perks=1359896290,699525795
+
+
+// Eye of Sol - Crucible (pvp)
+dimwishlist:item=3164743584&perks=957782887,47981717
+
+
+// Eye of Sol - Boss DPS (pve)
+dimwishlist:item=3164743584&perks=2869569095,1546637391
+
+
+// Bite of the Fox - Add Clear (pve)
+dimwishlist:item=3169616514&perks=247725512,2010801679
+
+
+// Bite of the Fox - Crucible (pvp)
+dimwishlist:item=3169616514&perks=957782887,588594999
+
+
+// Posterity - Add Clear (pve)
+dimwishlist:item=3281285075&perks=2779035018,3108830275
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3201496230
+
+
+// Wishbringer - Crucible (pvp)
+dimwishlist:item=3356526253&perks=1047830412,3161816588,47981717
+
+
+// Bequest - Add Clear (pve)
+dimwishlist:item=3366545721&perks=2590710093,354401740
+dimwishlist:item=3366545721&perks=2590710093,3708227201
+dimwishlist:item=3366545721&perks=2726471870,354401740
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+
+
+// Bequest - Crucible (pvp)
+dimwishlist:item=3366545721&perks=2726471870,354401740
+
+
+// Reckless Oracle - Add Clear (pve)
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+
+
+// Omniscient Eye - Add Clear (pve)
+dimwishlist:item=3454326177&perks=3513791699,2848615171
+
+
+// Omniscient Eye - Crucible (pvp)
+dimwishlist:item=3454326177&perks=2866798147,957782887
+
+
+// Night Watch - Add Clear (pve)
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+dimwishlist:item=3504336176&perks=1168162263,3425386926
+
+
+// Coriolis Force - Add Clear (pve)
+dimwishlist:item=3512349612&perks=2010801679,2726471870
+dimwishlist:item=3512349612&perks=2010801679,3108830275
+
+
+// Coriolis Force - Crucible (pvp)
+dimwishlist:item=3512349612&perks=588594999,2726471870
+dimwishlist:item=3512349612&perks=1645158859,2726471870
+
+
+// The Summoner (Adept) - Crucible (pvp)
+dimwishlist:item=3514144928&perks=588594999,1264398905
+
+
+// The Summoner (Adept) - Add Clear (pve)
+dimwishlist:item=3514144928&perks=3643424744,2848615171
+dimwishlist:item=3514144928&perks=3643424744,3425386926
+
+
+// Crowd Pleaser - Add Clear (pve)
+dimwishlist:item=3565520715&perks=2284787283,2726471870
+dimwishlist:item=3565520715&perks=2284787283,3108830275
+dimwishlist:item=3565520715&perks=2284787283,3523296417
+dimwishlist:item=3565520715&perks=2284787283,2396489472
+
+
+// Crowd Pleaser - Boss DPS (pve)
+dimwishlist:item=3565520715&perks=3301904089,2869569095
+
+
+// Crowd Pleaser - Crucible (pvp)
+dimwishlist:item=3565520715&perks=1478423395,1380253176,2726471870
+dimwishlist:item=3565520715&perks=1478423395,1380253176,3523296417
+
+
+// First In, Last Out - Add Clear (pve)
+dimwishlist:item=3616586446&perks=3300816228,3523296417
+
+
+// First In, Last Out - Crucible (pvp)
+dimwishlist:item=3616586446&perks=3161816588,47981717
+
+
+// First In, Last Out - Boss DPS (pve)
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+
+// Eye of Sol (Adept) - Boss DPS (pve)
+dimwishlist:item=3637570176&perks=2869569095,1546637391
+
+
+// Eye of Sol (Adept) - Crucible (pvp)
+dimwishlist:item=3637570176&perks=957782887,47981717
+
+
+// Long Shadow - Crucible (pvp)
+dimwishlist:item=3745990145&perks=957782887,588594999
+
+
+// Long Shadow - Add Clear (pve)
+dimwishlist:item=3745990145&perks=2869569095,2010801679
+
+
+// Long Shadow - Boss DPS (pve)
+dimwishlist:item=3745990145&perks=2869569095,3400784728
+
+
+// Transfiguration - Add Clear (pve)
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+
+
+// Seventh Seraph SI-2 - Add Clear (pve)
+dimwishlist:item=3937866388&perks=4071163871,3708227201
+
+
+// Prophet of Doom - Add Clear (pve)
+dimwishlist:item=4020742303&perks=2039302152,2679249093
+
+
+// Bonechiller - Add Clear (pve)
+dimwishlist:item=4037745684&perks=3300816228,3523296417
+dimwishlist:item=4037745684&perks=3300816228,2848615171
+
+
+// Techeun Force - Crucible (pvp)
+dimwishlist:item=4094657108&perks=1645158859,2213355989
+
+
+// Accrued Redemption - Add Clear (pve)
+dimwishlist:item=4095896073&perks=201365942,3365897133
+dimwishlist:item=4095896073&perks=201365942,3425386926
+
+
+// Accrued Redemption - Crucible (pvp)
+dimwishlist:item=4095896073&perks=2866798147,588594999
+
+
+// Outrageous Fortune - Add Clear (pve)
+dimwishlist:item=4146702548&perks=3999527219,3300816228,3096702027
+
+
+// Outrageous Fortune - Boss DPS (pve)
+dimwishlist:item=4146702548&perks=3301904089,3300816228
+
+
+// Outrageous Fortune - Crucible (pvp)
+dimwishlist:item=4146702548&perks=1478423395,1380253176
+
+
+// Commemoration - Add Clear (pve)
+dimwishlist:item=4230965989&perks=1523832109,3108830275
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+
+
+// Commemoration - Crucible (pvp)
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+dimwishlist:item=4230965989&perks=1359896290,699525795
+
+
+// Steel Sybil Z-14 - Add Clear (pve)
+dimwishlist:item=4230993599&perks=2590710093,354401740
+
+
+// Steel Sybil Z-14 - Boss DPS (pve)
+dimwishlist:item=4230993599&perks=1749209109,3913600130
+
+
+// Heritage - Add Clear (pve)
+dimwishlist:item=4248569242&perks=1523832109,2726471870
+dimwishlist:item=4248569242&perks=1523832109,3108830275
+
+
+// Heritage - Crucible (pvp)
+dimwishlist:item=4248569242&perks=3161816588,957782887
+
+
+// Crimil's Dagger - Add Clear (pve)
+dimwishlist:item=4292849692&perks=1168162263,1954620775
+dimwishlist:item=4292849692&perks=1168162263,1015611457
+
+
+// Crimil's Dagger - Crucible (pvp)
+dimwishlist:item=4292849692&perks=588594999,47981717
+
+
