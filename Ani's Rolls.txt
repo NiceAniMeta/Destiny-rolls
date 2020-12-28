@@ -513,7 +513,7 @@ dimwishlist:item=2990047042&perks=1523832109,1546637391
 dimwishlist:item=2990047042&perks=588594999,957782887
 
 
-// Seventh Seraph Officer Revolver - Add Clear
+// Seventh Seraph Officer Revolver - Add Clear (pve)
 dimwishlist:item=3037520408&perks=2010801679,1954620775
 
 
