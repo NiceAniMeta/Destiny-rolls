@@ -31,8 +31,11 @@ dimwishlist:item=42351395&perks=2010801679,3523296417
 dimwishlist:item=42351395&perks=1478423395,1996142143,2396489472
 
 
-// Subzero Salvo ()
-dimwishlist:item=42351395&perks=
+// THE SWARM - Stability Suite (god-pve)
+dimwishlist:item=47772649&perks=3661387068,3177308360,1359896290,1890422124
+dimwishlist:item=47772649&perks=3661387068,3177308360,1359896290,2387244414
+dimwishlist:item=47772649&perks=1392496348,3177308360,1359896290,1890422124
+dimwishlist:item=47772649&perks=1392496348,3177308360,1359896290,2387244414
 
 
 // THE SWARM - Add Clear (pve)
@@ -155,6 +158,15 @@ dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228
 dimwishlist:item=407621213&perks=1478423395,1380253176,1683379515
 
 
+// The Keening - Stability Suite (god-pve)
+dimwishlist:item=409551876&perks=3661387068,1885400500,247725512,2387244414
+dimwishlist:item=409551876&perks=3661387068,1885400500,4071163871,2387244414
+dimwishlist:item=409551876&perks=3661387068,1885400500,1645158859,2387244414
+dimwishlist:item=409551876&perks=1392496348,1885400500,247725512,2387244414
+dimwishlist:item=409551876&perks=1392496348,1885400500,4071163871,2387244414
+dimwishlist:item=409551876&perks=1392496348,1885400500,1645158859,2387244414
+
+
 // The Keening - Add Clear (pve)
 dimwishlist:item=409551876&perks=1631667848,4049631843
 dimwishlist:item=409551876&perks=1631667848,2848615171
@@ -176,6 +188,11 @@ dimwishlist:item=409551876&perks=1820235745,2848615171
 dimwishlist:item=409551876&perks=1820235745,2458213969
 dimwishlist:item=409551876&perks=1820235745,3708227201
 dimwishlist:item=409551876&perks=1820235745,3108830275
+
+
+// The Palindrome - Stability Suite (god-pve)
+dimwishlist:item=432476743&perks=3661387068,1885400500
+dimwishlist:item=432476743&perks=1392496348,1885400500
 
 
 // The Palindrome - Add Clear (pve)
@@ -277,6 +294,11 @@ dimwishlist:item=720351795&perks=3425386926,3365897133
 dimwishlist:item=720351795&perks=588594999,201365942
 
 
+// Seventh Seraph VY-7 - Stability Suite (god-pve)
+dimwishlist:item=766323545&perks=1392496348,3177308360
+dimwishlist:item=766323545&perks=3661387068,3177308360
+
+
 // Seventh Seraph VY-7 - Add Clear (pve)
 dimwishlist:item=766323545&perks=2010801679,2848615171
 
@@ -338,6 +360,11 @@ dimwishlist:item=991314988&perks=3300816228,3096702027
 dimwishlist:item=991314988&perks=1478423395,1996142143
 
 
+// Bottom Dollar - Sexy Hips (god-pvp)
+dimwishlist:item=1046651176&perks=202670084,3142289711,1866048759,47981717
+dimwishlist:item=1046651176&perks=202670084,3142289711,1866048759,699525795
+
+
 // Bottom Dollar - Add Clear (pve)
 dimwishlist:item=1046651176&perks=1168162263,2848615171
 dimwishlist:item=1046651176&perks=1168162263,3108830275
@@ -370,6 +397,11 @@ dimwishlist:item=1046651176&perks=972757866,699525795
 dimwishlist:item=1046651176&perks=972757866,47981717
 
 
+// Extraordinary Rendition - Stability Suite (god-pve)
+dimwishlist:item=1097616550&perks=1392496348,3177308360,2387244414,1890422124
+dimwishlist:item=1097616550&perks=3661387068,3177308360,2387244414,1890422124
+
+
 // Extraordinary Rendition - Add Clear (pve)
 dimwishlist:item=1097616550&perks=1431678320,1820235745,4049631843
 dimwishlist:item=1097616550&perks=1431678320,1820235745,4104185692
@@ -386,6 +418,13 @@ dimwishlist:item=1097616550&perks=2387244414,1890422124
 // Jian 7 Rifle - Add Clear (pve)
 dimwishlist:item=1162247618&perks=1431678320,3425386926
 dimwishlist:item=1162247618&perks=1431678320,2848615171
+
+
+// The Messenger (Adept) - Stability Suite (god-pve)
+dimwishlist:item=1173780905&perks=3661387068,1885400500,2387244414
+dimwishlist:item=1173780905&perks=3661387068,1885400500,247725512
+dimwishlist:item=1173780905&perks=1392496348,1885400500,2387244414
+dimwishlist:item=1173780905&perks=1392496348,1885400500,247725512
 
 
 // The Messenger (Adept) - Add Clear (pve)
@@ -457,6 +496,11 @@ dimwishlist:item=1392919471&perks=1645158859,699525795
 dimwishlist:item=1392919471&perks=1168162263,3201496230
 
 
+// The Palindrome (Adept) - Stability Suite (god-pve)
+dimwishlist:item=1481892490&perks=3661387068,1885400500
+dimwishlist:item=1481892490&perks=1392496348,1885400500
+
+
 // The Palindrome (Adept) - Add Clear (pve)
 dimwishlist:item=1481892490&perks=1820235745,4049631843
 dimwishlist:item=1481892490&perks=1820235745,3108830275
@@ -495,6 +539,12 @@ dimwishlist:item=1621657423&perks=588594999,3350417888
 
 // The Guiding Sight - Stability Suite (god-pve)
 dimwishlist:item=1641430382&perks=1885400500,247725512,11551321
+dimwishlist:item=1641430382&perks=1885400500,247725512,2387244414
+
+
+// The Guiding Sight - Sexy Hips (god-pvp)
+dimwishlist:item=1641430382&perks=679077873,1885400500,1866048759,11551321
+dimwishlist:item=1641430382&perks=679077873,1885400500,1866048759,2387244414
 
 
 // The Guiding Sight - Add Clear (pve)
@@ -503,6 +553,7 @@ dimwishlist:item=1641430382&perks=2010801679,4049631843
 
 // The Forward Path - Stability Suite (god-pve)
 dimwishlist:item=1690783811&perks=3177308360,1359896290,11551321
+dimwishlist:item=1690783811&perks=3177308360,1359896290,1890422124
 
 
 // The Forward Path - Add Clear (pve)
@@ -527,6 +578,13 @@ dimwishlist:item=1723380073&perks=445755706,1885400500,2387244414,247725512
 
 // Enigma's Draw - Add Clear (pve)
 dimwishlist:item=1723380073&perks=1631667848,4082225868
+
+
+// Thermal Erosion - Stability Suite (god-pve)
+dimwishlist:item=1766088024&perks=3661387068,1885400500,2387244414,1890422124
+dimwishlist:item=1766088024&perks=3661387068,1885400500,2387244414,1359896290
+dimwishlist:item=1766088024&perks=1392496348,1885400500,2387244414,1890422124
+dimwishlist:item=1766088024&perks=1392496348,1885400500,2387244414,1359896290
 
 
 // Thermal Erosion - Add Clear (pve)
@@ -594,16 +652,20 @@ dimwishlist:item=1982711279&perks=3661387068,3177308360,2387244414
 dimwishlist:item=1982711279&perks=1392496348,3177308360,2387244414
 
 
+// Talons of the Eagle - Sexy Hips (god-pvp)
+dimwishlist:item=1982711279&perks=202670084,3142289711,2387244414,1866048759
+dimwishlist:item=1982711279&perks=202670084,3142289711,4071163871,1866048759
+
+
 // Talons of the Eagle - Add Clear (pve)
 dimwishlist:item=1982711279&perks=1168162263,3425386926
 
 
 // The Last Dance - Stability Suite (god-pve)
-dimwishlist:item=2009277538&perks=445755707,1885400500,1645158859,1890422124
-
-
-// The Last Dance - Stability Suite (god-pve)
-dimwishlist:item=2009277538&perks=445755706,3230963543,1645158859,1890422124
+dimwishlist:item=2009277538&perks=445755706,1885400500,1645158859,1890422124
+dimwishlist:item=2009277538&perks=445755706,1885400500,1645158859,2387244414
+dimwishlist:item=2009277538&perks=445755706,1885400500,4071163871,1890422124
+dimwishlist:item=2009277538&perks=445755706,1885400500,4071163871,2387244414
 
 
 // The Last Dance - Add Clear (pve)
@@ -635,6 +697,13 @@ dimwishlist:item=2108920981&perks=3301904089,3300816228
 
 // Orewing's Maul - Boss DPS (pve)
 dimwishlist:item=2108920981&perks=3301904089,2869569095
+
+
+// Brass Attacks - Stability Suite (god-pve)
+dimwishlist:item=2121785039&perks=3661387068,1885400500,247725512
+dimwishlist:item=2121785039&perks=3661387068,1885400500,4071163871
+dimwishlist:item=2121785039&perks=1392496348,1885400500,247725512
+dimwishlist:item=2121785039&perks=1392496348,1885400500,4071163871
 
 
 // Brass Attacks - Add Clear (pve)
@@ -676,6 +745,13 @@ dimwishlist:item=2147010335&perks=1354429876,3108830275
 dimwishlist:item=2147010335&perks=1354429876,2848615171
 
 
+// Lonesome - Stability Suite (god-pve)
+dimwishlist:item=2199171672&perks=1392496348,1885400500,247725512
+dimwishlist:item=2199171672&perks=1392496348,1885400500,2387244414
+dimwishlist:item=2199171672&perks=3661387068,1885400500,247725512
+dimwishlist:item=2199171672&perks=3661387068,1885400500,2387244414
+
+
 // Lonesome - Add Clear (pve)
 dimwishlist:item=2199171672&perks=1631667848,4082225868
 
@@ -699,7 +775,9 @@ dimwishlist:item=2220884262&perks=588594999,4152709778
 
 // IKELOS_SMG_v1.0.2 - Stability Suite (god-pve)
 dimwishlist:item=2222560548&perks=3661387068,3177308360,1359896290,1890422124
+dimwishlist:item=2222560548&perks=3661387068,3177308360,4071163871,1890422124
 dimwishlist:item=2222560548&perks=1392496348,3177308360,1359896290,1890422124
+dimwishlist:item=2222560548&perks=1392496348,3177308360,4071163871,1890422124
 
 
 // IKELOS_SMG_v1.0.2 - Add Clear (pve)
@@ -720,6 +798,11 @@ dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110
 
 // Interference VI - Crucible (pvp)
 dimwishlist:item=2257180473&perks=1478423395,1380253176,2888557110
+
+
+// Igneous Hammer - Stability Suite (god-pve)
+dimwishlist:item=2351180975&perks=3661387068,1885400500,247725512
+dimwishlist:item=2351180975&perks=1392496348,1885400500,247725512
 
 
 // Igneous Hammer - Add Clear (pve)
@@ -809,6 +892,11 @@ dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942
 dimwishlist:item=2496242052&perks=1478423395,1996142143,2396489472
 
 
+// Igneous Hammer (Adept) - Stability Suite (god-pve)
+dimwishlist:item=2527666306&perks=3661387068,1885400500,247725512
+dimwishlist:item=2527666306&perks=1392496348,1885400500,247725512
+
+
 // Igneous Hammer (Adept) - Add Clear (pve)
 dimwishlist:item=2527666306&perks=247725512,3425386926
 dimwishlist:item=2527666306&perks=247725512,4049631843
@@ -831,6 +919,11 @@ dimwishlist:item=2545083870&perks=1478423395,1996142143
 dimwishlist:item=2545083870&perks=3796465595,3300816228
 
 
+// Seventh Seraph SAW - Stability Suite (god-pve)
+dimwishlist:item=2582755344&perks=3661387068,1885400500,2387244414
+dimwishlist:item=2582755344&perks=1392496348,1885400500,2387244414
+
+
 // Seventh Seraph SAW - Add Clear (pve)
 dimwishlist:item=2582755344&perks=2284787283,3513791699
 
@@ -840,6 +933,11 @@ dimwishlist:item=2582755344&perks=3300816228,1771339417
 dimwishlist:item=2582755344&perks=3300816228,1546637391
 dimwishlist:item=2582755344&perks=2869569095,1771339417
 dimwishlist:item=2582755344&perks=2869569095,1546637391
+
+
+// Shadow Price - Stability Suite (god-pve)
+dimwishlist:item=2633186522&perks=3661387068,3177308360
+dimwishlist:item=2633186522&perks=1392496348,3177308360
 
 
 // Shadow Price - Add Clear (pve)
@@ -887,6 +985,11 @@ dimwishlist:item=2742490609&perks=1359896290,588594999
 // Dire Promise - Crucible (pvp)
 dimwishlist:item=2742838701&perks=47981717,1645158859
 dimwishlist:item=2742838701&perks=47981717,2846385770
+
+
+// Royal Chase - Stability Suite (god-pve)
+dimwishlist:item=2776503072&perks=1392496348,3177308360
+dimwishlist:item=2776503072&perks=3661387068,3177308360
 
 
 // Royal Chase - Add Clear (pve)
@@ -981,10 +1084,8 @@ dimwishlist:item=3143732432&perks=1392496348,1885400500,1359896290,2387244414
 
 // False Promises - Add Clear (pve)
 dimwishlist:item=3143732432&perks=1820235745,3425386926
+dimwishlist:item=3143732432&perks=1820235745,3108830275
 dimwishlist:item=3143732432&perks=2779035018,3425386926
-
-
-// False Promises - Add Clear (pve)
 dimwishlist:item=3143732432&perks=2779035018,3108830275
 
 
@@ -1006,6 +1107,11 @@ dimwishlist:item=3169616514&perks=247725512,2010801679
 
 // Bite of the Fox - Crucible (pvp)
 dimwishlist:item=3169616514&perks=957782887,588594999
+
+
+// Vouchsafe - Stability Suite (god-pve)
+dimwishlist:item=3242168339&perks=1392496348,3177308360,1645158859,247725512
+dimwishlist:item=3242168339&perks=3661387068,3177308360,1645158859,247725512
 
 
 // Vouchsafe - Add Clear (pve)
@@ -1212,6 +1318,13 @@ dimwishlist:item=3637570176&perks=2869569095,1546637391
 dimwishlist:item=3637570176&perks=957782887,47981717
 
 
+// The Messenger - Stability Suite (god-pve)
+dimwishlist:item=3658188704&perks=3661387068,1885400500,247725512
+dimwishlist:item=3658188704&perks=3661387068,1885400500,2387244414
+dimwishlist:item=3658188704&perks=1392496348,1885400500,247725512
+dimwishlist:item=3658188704&perks=1392496348,1885400500,2387244414
+
+
 // The Messenger - Add Clear (pve)
 dimwishlist:item=3658188704&perks=1168162263,3047969693
 dimwishlist:item=3658188704&perks=1168162263,1015611457
@@ -1228,8 +1341,8 @@ dimwishlist:item=3658188704&perks=588594999,1264398905
 
 
 // Multimach CCX - Stability Suite (god-pve)
-dimwishlist:item=3717177717&perks=4071163871,11551321
-dimwishlist:item=3717177717&perks=1359896290,11551321
+dimwishlist:item=3717177717&perks=4071163871,3177308360,11551321
+dimwishlist:item=3717177717&perks=1359896290,3177308360,11551321
 
 
 // Multimach CCX - Add Clear (pve)
@@ -1302,8 +1415,8 @@ dimwishlist:item=3847137620&perks=1749209109,1546637391
 
 
 // Seventh Seraph SI-2 - Stability Suite (god-pve)
-dimwishlist:item=3937866388&perks=1392496348,3177308360,2387244414
-dimwishlist:item=3937866388&perks=3661387068,3177308360,2387244414
+dimwishlist:item=3937866388&perks=1392496348,3177308360,4071163871,2387244414
+dimwishlist:item=3937866388&perks=3661387068,3177308360,4071163871,2387244414
 
 
 // Seventh Seraph SI-2 - Add Clear (pve)
@@ -1362,14 +1475,21 @@ dimwishlist:item=4156253727&perks=588594999,47981717
 dimwishlist:item=4156253727&perks=2846385770,47981717
 
 
+// Commemoration - Stability Suite (god-pve)
+dimwishlist:item=4230965989&perks=1392496348,3177308360,2387244414,1645158859
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1359896290,1645158859
+dimwishlist:item=4230965989&perks=3661387068,3177308360,2387244414,1645158859
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1359896290,1645158859
+
+
 // Commemoration - Add Clear (pve)
 dimwishlist:item=4230965989&perks=1523832109,3108830275
 dimwishlist:item=4230965989&perks=1523832109,3425386926
 
 
 // Commemoration - Crucible (pvp)
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-dimwishlist:item=4230965989&perks=1359896290,699525795
+dimwishlist:item=4230965989&perks=2866798147,1645158859
+dimwishlist:item=4230965989&perks=2866798147,699525795
 
 
 // Steel Sybil Z-14 - Add Clear (pve)
@@ -1390,7 +1510,12 @@ dimwishlist:item=4248569242&perks=3161816588,957782887
 
 
 // Crimil's Dagger - Stability Suite (god-pve)
-dimwishlist:item=4292849692&perks=1926090095,3177308360,2387244414
+dimwishlist:item=4292849692&perks=1926090095,3177308360,4071163871,2387244414
+
+
+// Crimil's Dagger - Sexy Hips (god-pvp)
+dimwishlist:item=4292849692&perks=1926090091,3142289711,4071163871,1866048759
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,1866048759
 
 
 // Crimil's Dagger - Add Clear (pve)
